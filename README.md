@@ -1,23 +1,4 @@
-# Basic-Policy-Gradient-Labs
-
-A repo to study basic Policy Gradient algorithms (like REINFORCE) on classic control gym environments
-
-## Accompanying videos
-
-A policy gradient class where the algorithms are explained:
-
-https://www.youtube.com/watch?v=_RQYWSvMyyc
-
-A video about phenomena studied with code from this repo:
-
-https://www.youtube.com/watch?v=gLVodUwzHyU
-
-A further video about the code itself:
-https://www.youtube.com/watch?v=ib8q9ReedbM
-
-## python version
-
-Use python 3.
+# IAR : Basic-Policy-Gradient-Labs
 
 ## Installation
 
